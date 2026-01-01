@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.1onlysarkar.shop/_next/image?url=%2Flogo.jpg&w=48&q=75" alt="1onlysarkar Logo" width="120" height="120" style="border-radius: 50%;">
+<img src="https://www.1onlysarkar.shop/_next/image?url" alt="1onlysarkar Logo" width="120" height="120" style="border-radius: 50%;">
 
 # SAURABH GAUTAM
 
