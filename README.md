@@ -190,7 +190,7 @@ If you find my projects helpful or use my free services, consider supporting my 
 
 <div align="center">
 
-[![Free Fire](https://img.shields.io/badge/Free_Fire-FF4500?style=for-the-badge&logo=garena&logoColor=white)](https://1onlysarkar.shop)
+[![Free Fire]([https://raw.githubusercontent.com/1onlysarkar0/main/refs/heads/main/public/logo.jpg]())](https://1onlysarkar.shop)
 
 *Elite player | Premium emote collector | Community leader*
 
@@ -236,8 +236,6 @@ If you find my projects helpful or use my free services, consider supporting my 
 
 ---
 
-## 🔒 Gaming UID (moved for privacy)
+## 🔒 Gaming UID 
 
 - Free Fire UID: `6770053490`
-
-(If you'd prefer this removed entirely or obfuscated, tell me and I will remove or hide it.)
