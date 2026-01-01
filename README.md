@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="https://www.1onlysarkar.shop/_next/image?url" alt="1onlysarkar Logo" width="120" height="120" style="border-radius: 50%;">
+<!-- Replaced broken site image with GitHub avatar (reliable). Change if you have a preferred logo file. -->
+<img src="https://github.com/1onlysarkar0.png" alt="1onlysarkar Logo" width="120" height="120" style="border-radius: 50%;">
 
 # SAURABH GAUTAM
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=AI+Agent+Developer+%26+Full+Stack+Engineer;Free+AI+LLM+API+Provider;Custom+Web+Solutions+Specialist;Free+Fire+Elite+Player)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=AI+Agent+Developer+%26+Full+Stack+Engineer;Fr...)]
 
 <img src="https://komarev.com/ghpvc/?username=1onlysarkar0&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
@@ -16,7 +17,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-AI agent developer and full-stack engineer specializing in cutting-edge artificial intelligence solutions and automation [web:5]. Currently exploring advanced AI frameworks while building intelligent, scalable applications.
+AI agent developer and full-stack engineer specializing in cutting-edge artificial intelligence solutions and automation. Currently exploring advanced AI frameworks while building intelligent, high-performance web services.
 
 **What I Offer:**
 - 🤖 Free AI LLM API Keys (GPT-OS 120B & DeepSeek V3)
@@ -25,7 +26,6 @@ AI agent developer and full-stack engineer specializing in cutting-edge artifici
 - 📱 SMM Panel Solutions & Social Media Automation
 - 🆓 Free Subdomains & Hosting for Small Projects
 - 🤖 Telegram Bot Development & Deployment
-- 🎮 Free Fire UID: **6770053490**
 
 Always eager to collaborate on innovative projects and AI-driven solutions. Let's build something extraordinary together!
 
@@ -63,7 +63,9 @@ Always eager to collaborate on innovative projects and AI-driven solutions. Let'
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg" height="50" alt="OpenAI" title="OpenAI" style="filter: invert(1);" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="TensorFlow" title="TensorFlow" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" alt="PyTorch" title="PyTorch" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/langchain.svg" height="50" alt="LangChain" title="LangChain" style="filter: invert(1);" />
+
+<!-- LangChain: use a reliable shields.io badge that displays consistently across GitHub previews -->
+<a href="https://python.langchain.com/" target="_blank"><img src="https://img.shields.io/badge/LangChain-00D9FF?style=flat&logo=google%20scholar&logoColor=white" height="24" alt="LangChain" title="LangChain" /></a>&nbsp;&nbsp;
 
 </div>
 
@@ -74,7 +76,7 @@ Always eager to collaborate on innovative projects and AI-driven solutions. Let'
 ### 🎮 [1onlysarkar.shop](https://1onlysarkar.shop)
 **Free Fire Emote Sender & Ghost Bot Platform**
 
-A premium platform delivering instant emote delivery and advanced ghost bot features for Free Fire players worldwide [web:5].
+A premium platform delivering instant emote delivery and advanced ghost bot features for Free Fire players worldwide.
 
 **Key Features:**
 - ⚡ **Lightning Fast** - Sub-second emote delivery
@@ -139,8 +141,8 @@ A premium platform delivering instant emote delivery and advanced ghost bot feat
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=1onlysarkar0&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=00d9ff&text_color=c9d1d9" alt="GitHub Stats" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=1onlysarkar0&theme=dark&hide_border=true&background=0d1117&stroke=ffffff&ring=00d9ff&fire=00d9ff&currStreakLabel=ffffff" alt="GitHub Streak" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=1onlysarkar0&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=00d9ff&text_color=c9d1d9" alt="GitHub stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=1onlysarkar0&theme=dark&hide_border=true&background=0d1117&stroke=ffffff&ring=00d9ff&fire=00d9ff&currStreakLabel=ffffff" alt="GitHub Streak" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1onlysarkar0&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" alt="Top Languages" />
 
@@ -173,13 +175,12 @@ A premium platform delivering instant emote delivery and advanced ghost bot feat
 
 <div align="center">
 
-If you find my projects helpful or use my free services, consider supporting my work! Your contribution helps me maintain free AI API access and hosting services for the community [web:11][web:12].
+If you find my projects helpful or use my free services, consider supporting my work! Your contribution helps me maintain free AI API access and hosting services for the community.
 
-<form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_RyUIQrcHgM0orA" async> </script> </form>
+<!-- Razorpay button removed as requested. -->
 
-**Every contribution makes a difference! 🙏**
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://1onlysarkar.shop)
+<!-- UPI payment button (links to UPI intent on mobile). -->
+[![Pay via UPI](https://img.shields.io/badge/Pay%20via%20UPI-saurabhgithub%40fam-4CAF50?style=for-the-badge&logo=google-pay&logoColor=white)](upi://pay?pa=saurabhgithub@fam&pn=Saurabh%20Gautam)
 
 </div>
 
@@ -188,9 +189,6 @@ If you find my projects helpful or use my free services, consider supporting my 
 ## 🎮 Gaming Profile
 
 <div align="center">
-
-### Free Fire Player
-**UID:** `6770053490`
 
 [![Free Fire](https://img.shields.io/badge/Free_Fire-FF4500?style=for-the-badge&logo=garena&logoColor=white)](https://1onlysarkar.shop)
 
@@ -214,7 +212,11 @@ If you find my projects helpful or use my free services, consider supporting my 
 
 <div align="center">
 
+<!-- Re-added embedded trophies image. If this still shows broken in preview, fallback link below will always work. -->
 <img src="https://github-profile-trophy.vercel.app/?username=1onlysarkar0&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
+
+[If the image above doesn't render in your client, view the trophies here.](https://github-profile-trophy.vercel.app/?username=1onlysarkar0&theme=discord&no-frame=true&no-bg=true&column=7)
 
 </div>
 
@@ -224,10 +226,18 @@ If you find my projects helpful or use my free services, consider supporting my 
 
 ### 💡 "Building the future, one line of code at a time"
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Open+Source+Contributor;AI+%26+Automation+Enthusiast;Always+Learning%2C+Always+Growing;Let's+Build+Something+Amazing!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Open+Source+Contributor;AI+%26+Automation+Ent...)]
 
 **Made with ❤️ by Saurabh Gautam**
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 </div>
+
+---
+
+## 🔒 Gaming UID (moved for privacy)
+
+- Free Fire UID: `6770053490`
+
+(If you'd prefer this removed entirely or obfuscated, tell me and I will remove or hide it.)
