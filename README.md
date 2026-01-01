@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Replaced broken site image with GitHub avatar (reliable). Change if you have a preferred logo file. -->
-<img src="https://github.com/1onlysarkar0.png" alt="1onlysarkar Logo" width="120" height="120" style="border-radius: 50%;">
+<img src="https://raw.githubusercontent.com/1onlysarkar0/main/refs/heads/main/public/logo.jpg" alt="1onlysarkar Logo" width="120" height="120" style="border-radius: 50%;">
 
 # SAURABH GAUTAM
 
